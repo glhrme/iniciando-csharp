@@ -11,6 +11,11 @@ namespace aula02
       int variavel1 = Convert.ToInt32(Console.ReadLine());
       double variavel2 = 1.2;
       Console.WriteLine(variavel1 + "/" + variavel2);
+
+      char pLetra = (char) 65;
+      string letras = "Textinho";
+
+      Console.WriteLine(pLetra + "\n" + letras);
     }
   }
 }
