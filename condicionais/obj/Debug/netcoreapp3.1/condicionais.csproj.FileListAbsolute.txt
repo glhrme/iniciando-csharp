@@ -1,0 +1,12 @@
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/bin/Debug/netcoreapp3.1/condicionais.deps.json
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/bin/Debug/netcoreapp3.1/condicionais.runtimeconfig.json
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/bin/Debug/netcoreapp3.1/condicionais.runtimeconfig.dev.json
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/bin/Debug/netcoreapp3.1/condicionais.dll
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/bin/Debug/netcoreapp3.1/condicionais.pdb
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/obj/Debug/netcoreapp3.1/condicionais.csprojAssemblyReference.cache
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/obj/Debug/netcoreapp3.1/condicionais.AssemblyInfoInputs.cache
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/obj/Debug/netcoreapp3.1/condicionais.AssemblyInfo.cs
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/obj/Debug/netcoreapp3.1/condicionais.csproj.CoreCompileInputs.cache
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/obj/Debug/netcoreapp3.1/condicionais.dll
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/obj/Debug/netcoreapp3.1/condicionais.pdb
+/Users/guilherme.assis/Documents/alura/csharp/condicionais/obj/Debug/netcoreapp3.1/condicionais.genruntimeconfig.cache
