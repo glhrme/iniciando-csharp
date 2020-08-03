@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7KM5HOwoxTl70phugXsazToXaiOVdfGdGRU81NpL000Q1xtbUcbTpMj4RCkRqpBFB7LhOQ2znPmvsTj5vgNM2A==",
+  "dgSpecHash": "dAPCaGOfhuBTvmdKQCF9fjh+gVULiHybXRZZfEXy64jcyJfd3ZP+75pXAI3q5DUHChI3qG6tXje6xG3Cd0gEsQ==",
   "success": true,
-  "projectFilePath": "/Users/guilherme.assis/Documents/alura/csharp/poo/ByteBank/ByteBank.csproj",
+  "projectFilePath": "D:\\Dev\\csharp\\poo\\ByteBank\\ByteBank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
