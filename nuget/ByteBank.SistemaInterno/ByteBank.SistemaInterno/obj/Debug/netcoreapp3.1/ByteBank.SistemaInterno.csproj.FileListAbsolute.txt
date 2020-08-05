@@ -1,0 +1,16 @@
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.SistemaInterno.exe
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.SistemaInterno.deps.json
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.SistemaInterno.runtimeconfig.json
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.SistemaInterno.runtimeconfig.dev.json
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.SistemaInterno.dll
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.SistemaInterno.pdb
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.SistemaInterno.xml
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.Modelos.dll
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\netcoreapp3.1\ByteBank.SistemaInterno.csprojAssemblyReference.cache
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\netcoreapp3.1\ByteBank.SistemaInterno.AssemblyInfoInputs.cache
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\netcoreapp3.1\ByteBank.SistemaInterno.AssemblyInfo.cs
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\netcoreapp3.1\ByteBank.SistemaInterno.csproj.CoreCompileInputs.cache
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\netcoreapp3.1\ByteBank.SistemaInterno.csproj.CopyComplete
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\netcoreapp3.1\ByteBank.SistemaInterno.dll
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\netcoreapp3.1\ByteBank.SistemaInterno.pdb
+D:\Dev\csharp\nuget\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\netcoreapp3.1\ByteBank.SistemaInterno.genruntimeconfig.cache

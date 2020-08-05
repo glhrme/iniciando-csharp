@@ -1,9 +1,12 @@
 ﻿// using _05_ByteBank;
 
+using System;
+
 namespace ByteBank
 {
     public class ContaCorrente
     {
+        public static double TaxaOperacao { get; private set; }
         public Cliente Titular { get; set; }
 
         public static int TotalDeContasCriadas { get; private set; }
@@ -52,6 +55,14 @@ namespace ByteBank
         {
             Agencia = agencia;
             Numero = numero;
+
+            try{
+                TaxaOperacao = 30 / TotalDeContasCriadas;
+            } catch(SystemException erro) {
+                Console.WriteLine(erro.Message);
+                //throw new Exception("OiMundo"); custom exceptions
+                TaxaOperacao = 30;
+            }
 
             TotalDeContasCriadas++;
         }
